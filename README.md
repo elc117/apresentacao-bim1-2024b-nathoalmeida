@@ -77,7 +77,7 @@ Segundo a documentação da linguagem *Haskell*, *all* determina se todos os ele
 
 
 
-### Bônus: erros de programação 
+### Bônus 2: erros de programação 
 
 Como os professores de Programação I e II bem nos ensinaram, "quebrar" um problema em soluções menores facilita imensamente o trabalho. Mas também aprendemos que o verdadeiro problema do código, quase sempre, está entre o teclado e a cadeira. 
 
